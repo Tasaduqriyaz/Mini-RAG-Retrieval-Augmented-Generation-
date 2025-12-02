@@ -1,0 +1,19 @@
+[project]
+name = "avivo2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot==20.8",
+    "sentence-transformers",
+    "numpy",
+    "openai==0.28",
+    "tqdm",
+    "numpy",
+    "sentence_transformers",
+    "telegram",
+    "hf-xet>=1.2.0",
+    "python-dotenv>=1.2.1",
+    "gradio>=6.0.2",
+]
