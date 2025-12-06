@@ -1,4 +1,4 @@
-# Avivo.ai Mini-RAG Bot (Telegram + Gradio)
+# Mini-RAG Bot (Telegram + Gradio)
 
 This project is a **Mini-RAG (Retrieval-Augmented Generation)** system that:
 
